@@ -3,3 +3,6 @@
 a = int(input("enter num1:"))
 b = int(input("enter num2:"))
 print("sum:", a+b)
+print("diff", a-b)
+print("multi", a*b)
+print("div", a/b)
